@@ -1,0 +1,6 @@
+dist/
+.ufbt/
+*.o
+.vscode/
+NOTES.md
+catalog/
